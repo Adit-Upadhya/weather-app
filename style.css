@@ -47,6 +47,13 @@ body {
     font-size: 18px;
 
 }
+p1{
+    font-size: 25px;
+    font-weight: 500;
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10px;
+}
 .search button{
     border: 0;
     outline: 0;
