@@ -112,3 +112,16 @@ p1{
     font-size: 14px;
     display: none;
 }
+.weekly-weather {
+    display: none;
+    margin-top: 20px;
+}
+
+.week {
+    display: flex;
+    justify-content: space-between;
+}
+
+.day {
+    text-align: center;
+}
